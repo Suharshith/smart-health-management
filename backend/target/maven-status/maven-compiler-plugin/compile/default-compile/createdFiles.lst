@@ -1,0 +1,6 @@
+com\smarthealth\backend\model\Patient.class
+com\smarthealth\backend\controller\PatientController.class
+com\smarthealth\backend\config\CorsConfig.class
+com\smarthealth\backend\service\PatientService.class
+com\smarthealth\backend\repository\PatientRepository.class
+com\smarthealth\backend\SmartHealthApplication.class
